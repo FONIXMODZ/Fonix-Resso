@@ -1,8 +1,8 @@
 {
 "version": "2.1",
 "title": "Update Available!",
-"message": "Fonix Resso Have New Version Found",
-"negativeBtn": "Later",
-"positiveBtn": "Update Now",
-"getLink": "https://fonixmodsapkstore.blogspot.com/2022/05/fonix-resso-premium.html"
+"downloadLink": "https://fonixmodsapkstore.blogspot.com/2022/05/fonix-resso-premium.html",
+"positivebtn": "Update Now",
+"message": "Please update your app to enjoy new features(°•°)",
+"negativebtn": "Later"
 }
