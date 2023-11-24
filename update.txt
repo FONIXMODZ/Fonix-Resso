@@ -1,5 +1,5 @@
 {
-"version": "2.1",
+"version": "3.5.0",
 "title": "Update Available!",
 "message": "Fonix Resso Have New Version Found",
 "negativeBtn": "Later",
