@@ -1,8 +1,13 @@
 {
-"version": "3.5.1",
+"version": "3.5.0",
 "title": "Update Available!",
-"message": "Fonix Resso Have New Version Found",
-"negativeBtn": "Later",
-"positiveBtn": "Update Now",
-"getLink": "https://fonixmodsapkstore.blogspot.com/2022/05/fonix-resso-premium.html"
+"NewVersion": "3.5.1",
+"downloadLink": "https://fonixmodsapkstore.blogspot.com/2022/05/fonix-resso-premium.html",
+"changeLogMessage": "- Bug fixes
+- Performance improvements
+
+A new update is available for the app. Please update for the latest features and improvements.",
+"negativebtn": "Later",
+"positivebtn": "Update Now",
+"changelogTitle": "Changelogs"
 }
