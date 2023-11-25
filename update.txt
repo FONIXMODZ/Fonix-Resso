@@ -1,7 +1,7 @@
 {
-"version": "3.5.1",
+"version": "3.5.0",
 "title": "Update Available!",
-"NewVersion": "3.0",
+"NewVersion": "3.5.0",
 "downloadLink": "https://fonixmodsapkstore.blogspot.com/2022/05/fonix-resso-premium.html",
 "changeLogMessage": "- Bug fixes
 - Performance improvements
